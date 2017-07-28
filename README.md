@@ -2,7 +2,7 @@
 *99 Bottles of beer on the wall, 99 bottles of beer...*
 
 ---
-
+### What is it?
 99 Bottles is a new, innovative piece of software. We aim to create an answer to the age old computer science question, *"Is it possible to make a program that writes out the lyrics to 99 bottles of beer on the wall, and if so how do we do it"*. 
 
 The answer is yes, we can, and the way we do it is using *advanced, high level algorithms* and *mathmatics* to come up with the most amazing programming feat since the invention of binary.
