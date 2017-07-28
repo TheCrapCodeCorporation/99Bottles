@@ -1,7 +1,11 @@
 # 99Bottles
 *99 Bottles of beer on the wall, 99 bottles of beer...*
 
----
+---  
+<p align="center">  
+  <img src="http://i.imgur.com/NF55NBg.gif"/>  
+</p>  
+
 ### What is it?
 99 Bottles is a new, innovative piece of software. We aim to create an answer to the age old computer science question, *"Is it possible to make a program that writes out the lyrics to 99 bottles of beer on the wall, and if so how do we do it"*. 
 
