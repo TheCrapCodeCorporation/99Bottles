@@ -7,3 +7,4 @@ Warning: Expermintal and extreamly unstable
 3. Terminate Thread on Exit
 4. Add config generation and dependency download
 5. Fix "-1" Issue
+6. Create msi installer
