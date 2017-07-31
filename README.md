@@ -25,7 +25,7 @@ Our code is also useable as a module system for our fellow devs. Have you, mr/mr
 
 In future, 99 Bottles will do the following:
 
-* Not crash if you put a negative number into the config file
+* Throw an error if you put a negative number into the config file
 * Output in text to speech as well as text, for the hearing impaired
 * Provide dynamic delays that will take into account the length of the numbers
 * Cure Cancer
